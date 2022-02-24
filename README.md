@@ -1,4 +1,4 @@
-<h1 style="margin: 0 auto;">👋 Hi, I’m Anderson</h1>
+# 👋 Hi, I’m Anderson
 - 👀 I’m interested in full stack web developing
 - 🌱 I’m currently learning JavaScript
 - 📫 Email: andersonmarindev@gmail.com

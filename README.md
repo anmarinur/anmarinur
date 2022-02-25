@@ -3,7 +3,9 @@
 
 <b><p align= "center">I'm a full stack web development student from Colombia :colombia:</p></b>
 
-<a href="https://twitter.com/anmarinur_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<div align= "center">
+<a href="https://twitter.com/anmarinur_dev" target="_blank" align= "center"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
 
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning JavaScript

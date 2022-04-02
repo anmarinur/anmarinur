@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- :telescope: I’m studing at <a href="https://github.com/soyHenry">Soy Henry</a>
+- 💻 I’m studing at <a href="https://github.com/soyHenry">Soy Henry</a>
 - 📫 Email: andersonmarindev@gmail.com
 
 <b><p size=18>I'm currently learning</p></b>

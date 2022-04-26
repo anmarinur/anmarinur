@@ -1,13 +1,14 @@
 ![Banner Anderson](/Images/Banner.jpg)
 
-![](https://komarev.com/ghpvc/?username=anmarinur&color=blue)
-<h1 align= "center";>👋 Hi, I’m Anderson :man_technologist:</h1>
+[![Visits Badge](https://badges.pufler.dev/visits/anmarinur/anmarinur?labelColor=082032)](https://badges.pufler.dev)
+[![Twitter profile](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1&labelColor=082032)](https://twitter.com/anmarinur_dev)
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&labelColor=082032)](https://www.linkedin.com/in/andersonmarindev/)
+[![Codepen profile](https://img.shields.io/badge/Codepen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=000000&labelColor=082032)](https://codepen.io/anmarinur)
 
-<b><p align= "center">I'm a full stack web development student</p></b>
+<p>👋 Hey there</p>
 
-<div align= "center">
-<a href="https://twitter.com/anmarinur_dev" target="_blank" align= "center"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  <a href="https://www.linkedin.com/in/andersonmarindev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>  <a href="https://github.com/anmarinur?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
+<p>I'm Anderson, a full stack web development student</p>
+
 <br>
 
 - 💻 I’m studying at <a href="https://github.com/soyHenry">Soy Henry</a>
@@ -24,3 +25,5 @@
     
 
 <!-- página para los favicons https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- página para badges-->
+

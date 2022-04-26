@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
 
-![Anmarinur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true)
+![Anmarinur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true&count_private=true)
 
 <br>
 
@@ -37,6 +37,7 @@
 
 ![Photoshop](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=31A8FF&labelColor=082032)
 ![Illustrator](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=FF9A00&labelColor=082032)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717&labelColor=082032)
 
 <br> 
      

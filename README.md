@@ -9,9 +9,13 @@
 
 <p>I'm Anderson, a full stack web development student</p>
 
+<br>
+
 ## :pushpin: Pined Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anmarinur&repo=Mis-Apuntes&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/anmarinur/Mis-Apuntes)
+
+<br>
 
 ## :bar_chart: GitHub Stats
 
@@ -19,18 +23,23 @@
 
 ![Anmarinur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true)
 
+<br>
+
 ## :computer: Currently learning
 
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=f06529&labelColor=082032)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4&labelColor=082032)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E&labelColor=082032)
 
-<summary>More Skills</summary>
+<br>
+
+## :books: More Skills
 
 ![Photoshop](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=31A8FF&labelColor=082032)
 ![Illustrator](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=FF9A00&labelColor=082032)
 
-      
+<br> 
+     
 #### Made with ❤️ from Colombia :colombia:
       
     

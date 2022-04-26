@@ -9,7 +9,15 @@
 
 <p>I'm Anderson, a full stack web development student</p>
 
-<br>
+## :pushpin: Pined Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anmarinur&repo=Mis-Apuntes&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/anmarinur/Mis-Apuntes)
+
+## :bar_chart: GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c)
+
+![Anmarinur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true)
 
 - 💻 I’m studying at <a href="https://github.com/soyHenry">Soy Henry</a>
 - 📫 Email: andersonmarindev@gmail.com

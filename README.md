@@ -25,7 +25,7 @@
 
 <br>
 
-## :computer: Currently learning
+## :computer: Skills
 
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=f06529&labelColor=082032)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4&labelColor=082032)

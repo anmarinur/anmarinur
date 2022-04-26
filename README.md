@@ -15,20 +15,23 @@
 
 ## :bar_chart: GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
 
 ![Anmarinur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true)
 
-- 💻 I’m studying at <a href="https://github.com/soyHenry">Soy Henry</a>
-- 📫 Email: andersonmarindev@gmail.com
+## :computer: Currently learning
 
-<b><p size=18>I'm currently learning</p></b>
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=f06529&labelColor=082032)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4&labelColor=082032)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E&labelColor=082032)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<summary>More Skills</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmarinur&show_icons=true)
+![Photoshop](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=31A8FF&labelColor=082032)
+![Illustrator](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=FF9A00&labelColor=082032)
+
       
-<h5 align= "center">Made with ❤️ from Colombia :colombia:</h5>
+#### Made with ❤️ from Colombia :colombia:
       
     
 

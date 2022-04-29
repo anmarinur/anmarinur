@@ -49,7 +49,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 #### Made with ❤️ from Colombia :colombia:
       
 
-
 <!-- página para los favicons https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- página para badges-->
 

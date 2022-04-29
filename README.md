@@ -46,7 +46,6 @@
      
 #### Made with ❤️ from Colombia :colombia:
       
-
 <!-- página para los favicons https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- página para badges-->
 

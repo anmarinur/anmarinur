@@ -3,11 +3,12 @@
 [![Visits Badge](https://badges.pufler.dev/visits/anmarinur/anmarinur?labelColor=082032)](https://badges.pufler.dev)
 [![Twitter profile](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1&labelColor=082032)](https://twitter.com/anmarinur_dev)
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&labelColor=082032)](https://www.linkedin.com/in/andersonmarindev/)
-[![Codepen profile](https://img.shields.io/badge/Codepen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=000000&labelColor=082032)](https://codepen.io/anmarinur)
+[![Codepen profile](https://img.shields.io/badge/Codepen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=000000&labelColor=082032)](https://codepen.io/anmarinur) 
 
 <p>👋 Hey there</p>
 
 <p>I'm Anderson, a full stack web development student</p>
+:colombia:
 
 <br>
 
@@ -43,10 +44,13 @@
 
 <br> 
 
-## :snake: Margarita's lunch brake
+## :snake:
+
 ![snake](https://github.com/anmarinur/anmarinur/blob/output/github-contribution-grid-snake.svg)
-     
-#### Made with ❤️ from Colombia :colombia:
+
+<br>
+
+> ### _"Do everything for Love. Thus there will be no little things: everything will be big. Perseverance in little things for Love is heroism"_ St. Josemaría Escrivá
       
 <!-- página para los favicons https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- página para badges-->

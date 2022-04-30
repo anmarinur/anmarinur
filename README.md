@@ -24,7 +24,7 @@
 
 ![Anmarinur's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmarinur&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anmarinur&background=082032&dates=ffffff&ring=F7DF1E&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=ff006c)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anmarinur&background=082032&dates=ffffff&ring=F7DF1E&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=ff006c&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 

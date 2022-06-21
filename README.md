@@ -35,6 +35,7 @@
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=f06529&labelColor=082032)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4&labelColor=082032)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E&labelColor=082032)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DBFB&labelColor=082032)
 
 <br>
 

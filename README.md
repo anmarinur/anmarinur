@@ -14,7 +14,7 @@
 
 ## :pushpin: Pined Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anmarinur&repo=Mis-Apuntes&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/anmarinur/Mis-Apuntes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anmarinur&repo=200-Websites&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/anmarinur/200-Websites)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anmarinur&repo=notas-javascript&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/anmarinur/notas-javascript)
 

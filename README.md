@@ -1,6 +1,5 @@
 ![Banner Anderson](/Images/Banner.jpg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/anmarinur/anmarinur?labelColor=082032)](https://badges.pufler.dev)
 [![Twitter profile](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1&labelColor=082032)](https://twitter.com/anmarinur_dev)
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&labelColor=082032)](https://www.linkedin.com/in/andersonmarindev/)
 [![Codepen profile](https://img.shields.io/badge/Codepen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=000000&labelColor=082032)](https://codepen.io/anmarinur) 
@@ -44,12 +43,6 @@
 ![Photoshop](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=31A8FF&labelColor=082032)
 ![Illustrator](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=FF9A00&labelColor=082032)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717&labelColor=082032)
-
-<br> 
-
-## :snake:
-
-![snake](https://github.com/anmarinur/anmarinur/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 

@@ -4,7 +4,7 @@
 
 <p>My name is Anderson and I am an electronic engineer who loves programming. Since 2022, I have been learning and working on projects of front-end and back-end web development.</p>
 
-## 💻 Tecnologies
+## 💻 Technologies
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andersonmarindev/">

@@ -1,4 +1,4 @@
-![Banner Anderson](/Images/banner_v3.png)
+![Banner Anderson](/Images/banner_v4.png)
 
 ## 👋 Hi there
 

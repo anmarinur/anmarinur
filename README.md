@@ -4,7 +4,7 @@
 
 <p>I am a electronic engineer who loves programming. With extensive knowledge of front-end and back-end web development technologies learned at Henry Bootcamp and applied to development projects using React, Node.js, Sequelize and other technologies.</p>
   
-<p>More than 8 years of experience leading semi-annual preventive maintenance processes and performing corrective maintenance on laboratory equipment.
+<p>More than 8 years of experience leading preventive maintenance processes and performing corrective maintenance on laboratory equipment.
 Organized and disciplined. Able to work both in a team and independently. Adaptable and agile learner.</p>
 
 ## 💻 Technologies

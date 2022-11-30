@@ -7,6 +7,16 @@
 <p>More than 8 years of experience leading preventive maintenance processes and performing corrective maintenance on laboratory equipment.
 Organized and disciplined. Able to work both in a team and independently. Adaptable and agile learner.</p>
 
+<br/>
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmarinur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<br/>
+
 ## 💻 Technologies
 
 <p align="center">

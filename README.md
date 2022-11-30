@@ -11,6 +11,6 @@ Organized and disciplined. Able to work both in a team and independently. Adapta
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andersonmarindev/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,nodejs,postgres,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,nodejs,postgres,php,laravel,git,github,vscode" />
   </a>
 </p>

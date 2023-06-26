@@ -2,10 +2,9 @@
 
 ## 👋 Hi there
 
-<p>I am a highly motivated electronic engineer with passion for web development. Extensive experienceworking on various projects ranging from small applications to complex enterprise solutions usingdifferent technologies both on the front and back-end..</p>
+<p>I am a highly motivated electronic engineer with passion for web development. Extensive experienceworking on various projects ranging from small applications to complex enterprise solutions usingdifferent technologies both on the front and back-end.</p>
   
-<p>E
-xpert at problem solving and working under pressure to meet deadlines and deliver high-qualityproducts. Excellent interpersonal and communication skills to work effectively in a team.</p>
+<p>Expert at problem solving and working under pressure to meet deadlines and deliver high-qualityproducts. Excellent interpersonal and communication skills to work effectively in a team.</p>
 
 <br/>
 
